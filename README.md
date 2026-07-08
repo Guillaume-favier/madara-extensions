@@ -28,6 +28,7 @@ Paperback extensions for websites which use the generic Madara theme.
 - [ManhwaTop](https://manhwatop.com)
 - [SamuraiScan](https://samurai.j5z.xyz)
 - [SetsuScans](https://setsuscans.com)
+- [Tasho](https://tasho.net)
 - [ToonGod](https://toongod.com)
 - [Toonily](https://toonily.com)
 - [UToon](https://utoon.net)
